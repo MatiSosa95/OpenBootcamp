@@ -1,0 +1,11 @@
+-Factory: Proporciona una interfaz para la creacion de objetos. 
+-Builder: Permite contruir objetos complejos paso a paso. Este patron nos permtie producir
+distintos tipos y representaciones de un objeto empleando el mismo codigo de construccion
+-Prototype: Permite copiar objetos existente sin que el codigo dependa de sus clases. 
+-Singleton: Permite asegurarnos que una clase tenga una unica insancia, a la vez que 
+proporciona un punto de acces global a dicha instancia. 
+-Adapter: Permite adaptar varias clases con un solo main. 
+-Facade: Permite crear una fachada para nuestro condigo, permitendo al usuario la manipulacion de un 
+codigo basico.  
+-Decorator: Permite añadir funcionalidades a objetos colocando estos objetos dentro de otros objetos 
+encapsuladores que contienen estas funcionalidades. 
