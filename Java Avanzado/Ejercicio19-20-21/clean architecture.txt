@@ -1,0 +1,6 @@
+Las caracteristicas principales de la arquitectura limpia son las siguientes: 
+-Estructurar el codigo en capas contiguas. 
+-Separacion de principios muy clara
+-Se utilizan 4 capas(Capa de entidades, la capa de casos de uso, la capa de controles y la capa del resto de codigo. )
+
+Se tendria que usar en cualquier proyecto que sea antiguo o tenga algunos años de atraso, y lo mas implementaria serian patrones. 
